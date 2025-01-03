@@ -4,8 +4,6 @@ A repository containing all the resources i'm using to learn c++ and algorithms
 
 ## DSA Grind 🔥
 
-Visit [DSA Grind Notion Site](https://ankush003.notion.site/4249f277956444e29b7bf612178dc879?v=85debb4d761e4ad0bfd5819e57fa0cbc&pvs=4)
-
 | Number | Question                                   | Tags                                       | Level   | URL                                                                                           | Platform | Date                 |
 |--------|-------------------------------------------|--------------------------------------------|---------|-----------------------------------------------------------------------------------------------|----------|----------------------|
 | 47     | Validate Binary Search Tree              | Binary Search Tree, Binary Tree, DFS, Tree | Medium  | [Leetcode](https://leetcode.com/problems/validate-binary-search-tree/)                      | Leetcode | October 28, 2023    |
