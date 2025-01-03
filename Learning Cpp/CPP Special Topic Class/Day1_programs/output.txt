@@ -1,0 +1,4 @@
+
+SUMNUM is : 3
+SUMNUM is : 6
+SUMNUM is : 10

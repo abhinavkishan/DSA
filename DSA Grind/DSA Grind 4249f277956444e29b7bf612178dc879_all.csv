@@ -1,0 +1,54 @@
+﻿Number,Question,Tags,Level,URL,Platform,Date
+53,Kth Smallest Element in a BST,"Binary Search Tree, Binary Tree, DFS, Tree",Medium,https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/,Leetcode,"November 12, 2023"
+52,Permutatuions II,"Arrays, Backtracking",Revisit,https://leetcode.com/problems/permutations-ii/description/,Leetcode,"November 12, 2023"
+51,Permutations,"Arrays, Backtracking",Medium,https://leetcode.com/problems/permutations/description/,Leetcode,"November 11, 2023"
+50,Subsets,"Arrays, Backtracking, Bit Manipulation",Medium,https://leetcode.com/problems/subsets/description/,Leetcode,"November 8, 2023"
+49,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,"BFS, Binary Tree, Tree",Medium,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/,Leetcode,"November 4, 2023"
+48,Combination Sum II,"Arrays, Backtracking",Medium,https://leetcode.com/problems/combination-sum-ii/,Leetcode,"November 4, 2023"
+47,Validate Binary Search Tree,"Binary Search Tree, Binary Tree, DFS, Tree",Medium,https://leetcode.com/problems/validate-binary-search-tree/,Leetcode,"October 28, 2023"
+46,Combination Sum,"Arrays, Backtracking",Medium,https://leetcode.com/problems/combination-sum/,Leetcode,"October 26, 2023"
+45,Binary Tree Level Order Traversal,"BFS, Binary Tree, Tree",Medium,https://leetcode.com/problems/binary-tree-level-order-traversal/,Leetcode,"October 25, 2023"
+44,Subset Sums,Recursion,Medium,https://practice.geeksforgeeks.org/problems/subset-sums2234/1,GFG,"October 24, 2023"
+43,Lowest Common Ancestor of a Binary Search Tree,"Binary Search Tree, Binary Tree, DFS, Tree",Medium,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Leetcode,"October 24, 2023"
+42,Diameter of Binary Tree,"Binary Tree, DFS, Tree",Easy,https://leetcode.com/problems/diameter-of-binary-tree/description/,Leetcode,"October 16, 2023"
+41,Same Tree,"BFS, Binary Tree, DFS, Tree",Easy,https://leetcode.com/problems/same-tree/description/,Leetcode,"October 11, 2023"
+40,Sub-tree of Another Tree,"DFS, Hash Table, Tree",Easy,https://leetcode.com/problems/subtree-of-another-tree/description/,Leetcode,"October 11, 2023"
+39,Maximum Depth of Binary Tree,"BFS, Binary Tree, DFS, Tree",Easy,https://leetcode.com/problems/maximum-depth-of-binary-tree/description/,Leetcode,"October 9, 2023"
+38,Invert Binary Tree,"BFS, Binary Tree, DFS, Tree",Easy,https://leetcode.com/problems/invert-binary-tree/,Leetcode,"October 9, 2023"
+37,Intersection of Two Linked Lists,"Hash Table, Linked List, Two Pointers",Easy,https://leetcode.com/problems/intersection-of-two-linked-lists/,Leetcode,"October 7, 2023"
+36,Add Two Numbers,"Linked List, Recursion",Medium,https://leetcode.com/problems/add-two-numbers/description/,Leetcode,"September 16, 2023"
+35,Palindrome Linked List,"Linked List, Stack, Two Pointers",Easy,https://leetcode.com/problems/palindrome-linked-list/description/,Leetcode,"September 18, 2023"
+34,Reorder List,"Linked List, Recursion, Two Pointers",Medium,https://leetcode.com/problems/reorder-list/,Leetcode,"September 9, 2023"
+33,Reverse Linked List II,Linked List,Medium,https://leetcode.com/problems/reverse-linked-list-ii/,Leetcode,"September 7, 2023"
+32,Split Linked List in Parts,Linked List,Medium,https://leetcode.com/problems/split-linked-list-in-parts/,Leetcode,"September 6, 2023"
+31,"Copy List with Random Pointer ","Hash Table, Linked List",Medium,https://leetcode.com/problems/copy-list-with-random-pointer/,Leetcode,"September 5, 2023"
+30,Delete Node in a Linked List,Linked List,Medium,https://leetcode.com/problems/delete-node-in-a-linked-list/,Leetcode,"September 4, 2023"
+29,Remove Nth node from back,"Linked List, Two Pointers",Medium,,,"September 3, 2023"
+28,Middle of Linked List,Linked List,Easy,,Leetcode,"September 3, 2023"
+27,Maximum Product Subarray,"Arrays, Dynamic Programming",Medium,,Leetcode,"September 3, 2023"
+26,Merge Two Sorted Lists,"Linked List, Recursion",Easy,https://leetcode.com/problems/merge-two-sorted-lists/description/,Leetcode,"August 30, 2023"
+25,Koko Eating Bananas,"Arrays, Binary Search",Revisit,,Leetcode,"August 27, 2023"
+24,Reverse Linked List,Linked List,Easy,,Leetcode,"August 23, 2023"
+23,Search in Rotated Sorted Array,"Arrays, Binary Search",Medium,,Leetcode,"August 22, 2023"
+22,Find minimum in rotated sorted array,"Arrays, Binary Search",Medium,,,
+21,Determine the Minimum Sum of a k-avoiding Array,"Arrays, Hash Table",Medium,,Leetcode,"August 20, 2023"
+20,Car Fleet,Stack,Medium,,Leetcode,"August 19, 2023"
+19,Minimum Window Substring,"Hash Table, Sliding Window, string",Hard,,Leetcode,"August 17, 2023"
+18,Longest Repeating Character Replacement,"Sliding Window, string",Medium,,Leetcode,
+17,Trapping Rainwater,"Arrays, Two Pointers",Hard,,Leetcode,
+16,Longest Sub-string Without Repeating Characters,"Sliding Window, string",Medium,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Leetcode,
+15,Three Sum,"Arrays, Two Pointers",Medium,,Leetcode,
+14,Valid Palindrome,"Two Pointers, string",Easy,,Leetcode,
+13,Buy and sell Stock,Arrays,Easy,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Leetcode,
+12,Next Permutation,Arrays,Medium,https://leetcode.com/problems/next-permutation/description/,Leetcode,"August 5, 2023"
+11,Longest Consecutive Sequence,"Arrays, Hash Table",Medium,https://leetcode.com/problems/longest-consecutive-sequence/description/,Leetcode,"August 9, 2023"
+10,Product of array except self,"Arrays, prefix sum",Medium,,Leetcode,
+9,Top K elements,"Arrays, Hash Table, Heap, Sorting",Medium,https://leetcode.com/problems/top-k-frequent-elements/,Leetcode,
+8,set matrix zeros,Arrays,Medium,https://leetcode.com/problems/set-matrix-zeroes/description/,Leetcode,
+7,Pascal’s Triangle,"Arrays, Dynamic Programming",Easy,,Leetcode,
+6,Group Anagrams,Arrays,Medium,,Leetcode,
+5,Two Sum,Arrays,Easy,,Leetcode,
+4,Is Subsequence,Arrays,Easy,https://leetcode.com/problems/is-subsequence/description/,Leetcode,
+3,array concatenation,Arrays,Easy,,Leetcode,
+2,valid anagram,"Hash Table, Sorting, string",Easy,,Leetcode,
+1,Contains Duplicate,"Arrays, Hash Table, Sorting",Easy,,Leetcode,

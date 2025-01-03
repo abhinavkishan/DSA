@@ -1,0 +1,4 @@
+Time to complete: 10
+Name: Batman
+Level: A
+Health: 100
